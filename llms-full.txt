@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Bangor
+
+> Geotechnical engineering services in Bangor, United Kingdom.
+
+## Services
+- [Anchors](https://bangor.geotechnical-engineering.biz/anchors/)
+- [Atterberg Limits](https://bangor.geotechnical-engineering.biz/atterberg-limits/)
+- [Cbr Road](https://bangor.geotechnical-engineering.biz/cbr-road/)
+- [Cpt Test](https://bangor.geotechnical-engineering.biz/cpt-test/)
+- [Deep Excavations](https://bangor.geotechnical-engineering.biz/deep-excavations/)
+- [Excavation Monitoring](https://bangor.geotechnical-engineering.biz/excavation-monitoring/)
+- [Excavations](https://bangor.geotechnical-engineering.biz/excavations/)
+- [Flexible Pavement](https://bangor.geotechnical-engineering.biz/flexible-pavement/)
+- [Footings](https://bangor.geotechnical-engineering.biz/footings/)
+- [Foundations](https://bangor.geotechnical-engineering.biz/foundations/)
+- [Grain Size](https://bangor.geotechnical-engineering.biz/grain-size/)
+- [Ground Improvement](https://bangor.geotechnical-engineering.biz/ground-improvement/)
+- [Grouting](https://bangor.geotechnical-engineering.biz/grouting/)
+- [In Situ Permeability](https://bangor.geotechnical-engineering.biz/in-situ-permeability/)
+- [Investigation](https://bangor.geotechnical-engineering.biz/investigation/)
+- [Lab In Situ](https://bangor.geotechnical-engineering.biz/lab-in-situ/)
+- [Laboratory](https://bangor.geotechnical-engineering.biz/laboratory/)
+- [Liquefaction](https://bangor.geotechnical-engineering.biz/liquefaction/)
+- [Masw](https://bangor.geotechnical-engineering.biz/masw/)
+- [Mat Foundations](https://bangor.geotechnical-engineering.biz/mat-foundations/)
+- [Piles](https://bangor.geotechnical-engineering.biz/piles/)
+- [Proctor Tests](https://bangor.geotechnical-engineering.biz/proctor-tests/)
+- [Resistivity](https://bangor.geotechnical-engineering.biz/resistivity/)
+- [Retaining Walls](https://bangor.geotechnical-engineering.biz/retaining-walls/)
+- [Rigid Pavement](https://bangor.geotechnical-engineering.biz/rigid-pavement/)
+- [Road Geotechnics](https://bangor.geotechnical-engineering.biz/road-geotechnics/)
+- [Sand Cone Density](https://bangor.geotechnical-engineering.biz/sand-cone-density/)
+- [Seismic](https://bangor.geotechnical-engineering.biz/seismic/)
+- [Seismic Isolation](https://bangor.geotechnical-engineering.biz/seismic-isolation/)
+- [Seismic Microzonation](https://bangor.geotechnical-engineering.biz/seismic-microzonation/)
+- [Seismic Refraction](https://bangor.geotechnical-engineering.biz/seismic-refraction/)
+- [Slope Stability](https://bangor.geotechnical-engineering.biz/slope-stability/)
+- [Slopes](https://bangor.geotechnical-engineering.biz/slopes/)
+- [Soft Ground Tunnels](https://bangor.geotechnical-engineering.biz/soft-ground-tunnels/)
+- [Spt Drilling](https://bangor.geotechnical-engineering.biz/spt-drilling/)
+- [Stone Columns](https://bangor.geotechnical-engineering.biz/stone-columns/)
+- [Test Pits](https://bangor.geotechnical-engineering.biz/test-pits/)
+- [Triaxial](https://bangor.geotechnical-engineering.biz/triaxial/)
+- [Vibrocompaction](https://bangor.geotechnical-engineering.biz/vibrocompaction/)
+
+## Contact
+- Website: https://bangor.geotechnical-engineering.biz/
+
+## About
+This site provides geotechnical engineering services in Bangor, United Kingdom.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
